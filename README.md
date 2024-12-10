@@ -4,3 +4,4 @@
 
 |classe| definição|
 |------|----------|
+|bg-light| Define um fundo claro|
